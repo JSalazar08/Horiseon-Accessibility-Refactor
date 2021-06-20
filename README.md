@@ -1,1 +1,3 @@
-# Code Refactor Starter Code
+HORISEON - ADAPTING TO BECOME MORE ACCESSIBLE TO OUR CUSTOMERS
+
+This project was made with the purpose to allow our client, Horiseon, to be more accessible to their clients. By using accessibility tags we can allow any up to date browser help those individuals that may use websites in a more unique way than your average consumer. By using HTML and CSS we can keep the webpage simple and easy to read for anyone that is interested, while also making the page stable and easy to modify in the future. I personally had to understand why these accessibility options are needed as I had never used them myself, by understanding that not everyone one sees and feels the world around us the same way I understood why I was needed to make these changes for Horision. I hope to automatically use these accessibility options in my coding in the future, my view of the world wide web is not the only one out there.
